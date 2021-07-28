@@ -27,15 +27,15 @@ Users should be able to:
 ### Screenshot
 
 All screenshots can be found in the screenshots folder
-![](My-3-column-preview-card-component-main/screenshots/desktop-screenshot.jpg)
-![](My-3-column-preview-card-component-main/screenshots/mobile-screenshot.jpg)
-![](My-3-column-preview-card-component-main/screenshots/on-click-screenshot.jpg)
+![](screenshots/desktop-screenshot.jpg)
+![](screenshots/mobile-screenshot.jpg)
+![](screenshots/on-click-screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dalandadan/Challenge_3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://kind-rosalind-252acb.netlify.app)
+- Solution URL: [Github files](https://github.com/dalandadan/Challenge_3-column-preview-card)
+- Live Site URL: [Live site](https://kind-rosalind-252acb.netlify.app)
 
 ### Built with
 
