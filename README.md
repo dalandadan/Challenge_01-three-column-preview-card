@@ -51,7 +51,7 @@ In this project I learned how to organize my workflow, coming up with a plan in 
 
 ### Conclusion
 
-Overall I managed to accomplish the task and be able to make a responsive 3-column preview card component that have an interactive hover state. 
+Even though my code is not that clean, overall I managed to accomplish the task and be able to make a responsive 3-column preview card component that have an interactive hover state.
 
 ## Author
 
