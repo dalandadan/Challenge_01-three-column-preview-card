@@ -13,6 +13,7 @@
     --very-light-gray: hsl(0, 0%, 95%);
 }
 
+/* Styles */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -85,8 +86,6 @@ p {
     cursor: pointer;
 }
 
-
-
 .first-card .btn {
     color: var(--bright-orange);
 }
@@ -104,6 +103,7 @@ p {
     color: #fff;
 }
 
+/* Responsive */
 @media (max-width: 500px) {
     .card {
         margin: auto;
@@ -151,7 +151,7 @@ p {
     }
 }
 
-/* Owner */
+/* Author */
 .attribution { 
     font-size: 11px; 
     text-align: center; 
