@@ -34,8 +34,8 @@ All screenshots can be found in the screenshots folder
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dalandadan/Challenge_3-column-preview-card)
+- Live Site URL: [Add live site URL here](https://kind-rosalind-252acb.netlify.app)
 
 ### Built with
 
