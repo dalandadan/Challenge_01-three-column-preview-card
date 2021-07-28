@@ -27,9 +27,9 @@ Users should be able to:
 ### Screenshot
 
 All screenshots can be found in the screenshots folder
-![](screenshots/desktop-screenshot.jpg)
-![](screenshots/mobile-screenshot.jpg)
-![](screenshots/on-click-screenshot.jpg)
+![](My-3-column-preview-card-component-main/screenshots/desktop-screenshot.jpg)
+![](My-3-column-preview-card-component-main/screenshots/mobile-screenshot.jpg)
+![](My-3-column-preview-card-component-main/screenshots/on-click-screenshot.jpg)
 
 
 ### Links
